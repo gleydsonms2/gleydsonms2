@@ -1,4 +1,8 @@
-### Oi, me chamo Gleydson Souza, aprendiz em análise de dados.
+### Oi, seja bem-vindo(a) ao meu github
+
+Me chamo Gleydson Souza e desde o final de 2019 venho atuando ativamente com análise de dados através do Power BI e da linguagem M.
+
+Vivo no modo de aprendizado constante em busca de aprimoramento e soluções para os desafios que surgem no dia a dia.
 
 <!--
 **gleydsonms2/gleydsonms2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +34,4 @@ Here are some ideas to get you started:
 <a href="mailto:gleydsonms@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  ![Snake animation](https://github.com/gleydsonms2/gleydsonms2/blob/output/github-contribution-grid-snake.svg)
+ 

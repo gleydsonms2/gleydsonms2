@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <a href="mailto:gleydsonms@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-![Snake animation](https://github.com/gleydsonms2/gleydsonms2/raw/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gleydsonms2/gleydsonms2/blob/output/github-contribution-grid-snake.svg)

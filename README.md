@@ -2,7 +2,6 @@
 
 Me chamo Gleydson Souza e desde o final de 2019 venho atuando ativamente com análise de dados através do Power BI e da linguagem M.
 
-Vivo no modo de aprendizado constante em busca de aprimoramento e soluções para os desafios que surgem no dia a dia.
 
 <!--
 **gleydsonms2/gleydsonms2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

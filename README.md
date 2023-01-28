@@ -1,6 +1,6 @@
 ### Oi, seja bem-vindo(a) ao meu github
 
-Me chamo Gleydson Souza e desde o final de 2019 venho atuando ativamente com análise de dados através do Power BI e da linguagem M.
+Me chamo Gleydson Souza e desde o final de 2019 venho atuando ativamente com análise de dados através do Power BI.
 
 
 <!--

@@ -35,19 +35,13 @@ Here are some ideas to get you started:
 </a>
  
  ## Trabalhos Realizados
- <table>
- <tr>
- <td>
+ <div>
  <a href="https://app.powerbi.com/view?r=eyJrIjoiODVhNmIyMDEtZDU0Yy00YTNjLWI1MzYtNjdmNWNhNTZlMjMzIiwidCI6IjZkZWYyOTZmLTZmMzYtNDAwYy1hODlhLWU1NjQyOGZhYzY4NCJ9" target="_blank">
   <img align="center" src="https://user-images.githubusercontent.com/82005568/215280432-4c81cbcf-8efc-4f9f-9a08-526f6d70b7ce.png" width="400" height="200" />
 </a>
-</td>
 
-<td>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiM2IzODBmZmQtMjE0Ni00YTc3LWEwMTMtYTIzNmY2YWU2NTE3IiwidCI6IjZkZWYyOTZmLTZmMzYtNDAwYy1hODlhLWU1NjQyOGZhYzY4NCJ9" target="_blank">
   <img align="center" src="https://user-images.githubusercontent.com/82005568/215281889-9ba6db49-089d-4908-bc45-7e8d4596f4e5.png" width="400" height="200" />
 </a>
-  </td>
-</tr>
-</table>
+  </div>
 
